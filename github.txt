@@ -1,0 +1,25 @@
+https://github.com/starlight1492-coder/t1012.git
+
+echo "# t1012" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/starlight1492-coder/t1012.git
+git push -u origin main
+
+https://github.com/starlight1492-coder/t1012
+
+https://github.com/starlight1492-coder/Test1013.git
+
+echo "# Test1013" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/starlight1492-coder/Test1013.git
+git push -u origin main
+
+git remote add origin https://github.com/starlight1492-coder/Test1013.git
+git branch -M main
+git push -u origin main
